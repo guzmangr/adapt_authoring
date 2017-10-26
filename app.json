@@ -1,0 +1,15 @@
+{
+  "name": "adapt_authoring",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
